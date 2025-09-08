@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/eeshwarankathi/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/eeshwarankathi/leetcode-problems/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
